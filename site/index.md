@@ -1,6 +1,6 @@
 ---
 layout: "layouts/home.njk"
-title: Welcome!
+title: welcome
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
