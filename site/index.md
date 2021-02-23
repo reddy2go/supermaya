@@ -1,6 +1,6 @@
 ---
 layout: "layouts/home.njk"
-title: The Playpen
+title: Welcome to the Playpen
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
