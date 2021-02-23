@@ -1,6 +1,6 @@
 ---
 layout: "layouts/home.njk"
-title: Welcome to the Playpen
+title: Welcome!
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
@@ -8,4 +8,4 @@ socialImage: ""
 
 Enter the playpen, for insights and ideas on the theme of play. Let’s build a kindergarten for adults - to invoke and foster the spirit of play like a child while shouldering the responsibilities of adulthood. 
 
-# Let’s play!
+## Let’s play!
