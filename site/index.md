@@ -1,18 +1,11 @@
 ---
 layout: "layouts/home.njk"
-title: Simple Blog
+title: The Playpen
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
 ---
 
-An 11ty starter kit designed to help you add rich features to a site without a complicated build process.
+Enter the playpen, for insights and ideas on the theme of play. Let’s build a kindergarten for adults - to invoke and foster the spirit of play like a child while shouldering the responsibilities of adulthood. 
 
-<ul>
-    <li>
-        <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya + Keystone</a> <small>(add user-generated content)</small>
-    </li>
-    <li>
-        <a href="https://app.netlify.com/start/deploy?repository=https://github.com/MadeByMike/supermaya">Deploy Supermaya to Netlify</a>
-    </li>
-</ul>
+# Let’s play!
